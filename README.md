@@ -1,1 +1,1 @@
-# Art-Gallery-Management
+# Art-Gallery-Management System
